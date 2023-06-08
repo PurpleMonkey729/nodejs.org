@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nodejs.org">nodejs.org</a> website built using Nextra (Next.js) with TypeScript, SCSS and MDXv2
+  <a href="https://nodejs.org">nodejs.org</a>website built using Nextra (Next.js) with TypeScript, SCSS and MDXv2
 </p>
 
 <p align="center">
